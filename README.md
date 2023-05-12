@@ -10,4 +10,4 @@ A medida que las hormigas encuentran soluciones prometedoras, la información so
 
 El algoritmo de colonia de hormigas se ha utilizado con éxito en una variedad de problemas, como el enrutamiento de vehículos, la planificación de rutas, la asignación de tareas y la optimización de redes, entre otros. Su capacidad para encontrar soluciones aproximadas eficientes en problemas complejos lo convierte en una poderosa herramienta de optimización inspirada en la naturaleza.
 
-En este algorimo se utiliza la liobreria fri26.tsp de TSPLIB 95
+En este algorimo se utiliza la librería fri26.tsp de TSPLIB 95 para resolver el pronblema de TSP haciendo uso del algorimo de colonia de hormigas.
